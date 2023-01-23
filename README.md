@@ -16,4 +16,4 @@ För tillfället lär jag mig använda **PHP** och **Databaser**.
 ---
 
 Kontakta mig:
-- 📫 jeanette.krantz@student.miun.se
+📫 jeanette.krantz@student.miun.se
