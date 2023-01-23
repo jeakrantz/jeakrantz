@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hallå där, jag heter Jeanette!
 
-<!--
-**jeakrantz/jeakrantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Välkommen till min Github. Här finns alla mina projekt jag jobbar med just nu. 
+Jag pluggar Webbutveckling på Mittuniversitetet och är inne på termin 2. 
+För tillfället lär jag mig använda **PHP** och **Databaser**. 
 
-Here are some ideas to get you started:
+### ⚡Tidigare har jag bemästrat⚡
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Kontakta mig:
+- 📫 jeanette.krantz@student.miun.se
