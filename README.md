@@ -2,9 +2,7 @@
 
 
 Välkommen till min Github. Här finns alla mina projekt jag jobbar med just nu. 
-Jag pluggar Webbutveckling på Mittuniversitetet och är inne på termin 2. 
-
-För tillfället lär jag mig använda **PHP** och **Databaser**. 
+Jag pluggar Webbutveckling på Mittuniversitetet och är inne på termin 3. 
 
 ---
 
@@ -12,6 +10,12 @@ För tillfället lär jag mig använda **PHP** och **Databaser**.
 - HTML
 - CSS
 - JavaScript
+- TypeScript
+- PHP
+- SQL
+- Wordpress-CMS development
+- Laravel
+- Vue
 
 ---
 
