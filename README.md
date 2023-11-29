@@ -2,7 +2,7 @@
 
 
 Välkommen till min Github. Här finns alla mina projekt jag jobbar med just nu. 
-Jag pluggar Webbutveckling på Mittuniversitetet och är inne på termin 3. 
+Jag pluggar Webbutveckling på Mittuniversitetet och är inne på mitt sista år. 
 
 ---
 
@@ -20,4 +20,4 @@ Jag pluggar Webbutveckling på Mittuniversitetet och är inne på termin 3.
 ---
 
 Kontakta mig:
-📫 jeanette.krantz@student.miun.se
+📫 jeakrantz@gmail.com
