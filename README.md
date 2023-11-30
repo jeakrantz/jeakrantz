@@ -7,17 +7,10 @@ Jag pluggar Webbutveckling på Mittuniversitetet och är inne på mitt sista år
 ---
 
 ### ⚡Jag kan:⚡
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- PHP
-- SQL
-- Wordpress-CMS development
-- Laravel
-- Vue
-- 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,gulp,laravel,mysql,php,sass,vue,wordpress)](https://skillicons.dev)
+
+### ⚡Jag lär mig:⚡
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mongodb,nodejs,react)](https://skillicons.dev)
 
 ---
 
