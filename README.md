@@ -13,6 +13,8 @@ Jag pluggar Webbutveckling på Mittuniversitetet och är inne på mitt sista år
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mongodb,nodejs,react)](https://skillicons.dev)
 
 ---
+LinkedId: 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 Kontakta mig:
 📫 jeakrantz@gmail.com
