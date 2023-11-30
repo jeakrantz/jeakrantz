@@ -6,7 +6,7 @@ Jag pluggar Webbutveckling på Mittuniversitetet och är inne på mitt sista år
 
 ---
 
-### ⚡Tidigare har jag bemästrat⚡
+### ⚡Jag kan:⚡
 - HTML
 - CSS
 - JavaScript
@@ -16,6 +16,8 @@ Jag pluggar Webbutveckling på Mittuniversitetet och är inne på mitt sista år
 - Wordpress-CMS development
 - Laravel
 - Vue
+
+  ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
 
 ---
 
