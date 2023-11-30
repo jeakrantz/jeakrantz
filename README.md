@@ -14,7 +14,6 @@ Jag pluggar Webbutveckling på Mittuniversitetet och är inne på mitt sista år
 
 ---
 
-Kontakta mig:
 📫 [jeakrantz@gmail.com](mailto:jeakrantz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 :mortar_board: [LinkedIn](www.linkedin.com/in/jeanette-k-b38a25254)
