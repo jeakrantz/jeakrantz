@@ -1,7 +1,7 @@
 # Hallå där, jag heter Jeanette!
 
 
-Välkommen till min Github. Här finns alla mina projekt jag jobbar med just nu. 
+Välkommen till min Github. Här hittar du olika projekt som jag skapat. 
 Jag pluggar Webbutveckling på Mittuniversitetet och är inne på mitt sista år. 
 
 ---
