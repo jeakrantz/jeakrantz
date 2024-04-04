@@ -8,10 +8,10 @@ Jag pluggar Webbutveckling på Mittuniversitetet och är inne på mitt sista år
 ---
 
 ### ⚡Jag kan:⚡
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,gulp,laravel,mysql,cs,dotnet,php,sass,vue,wordpress&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,gulp,laravel,mysql,cs,dotnet,php,sass,vue,wordpress&perline=5)](https://skillicons.dev)
 
 ### ⚡Jag lär mig:⚡
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,react&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,angular,react&perline=5)](https://skillicons.dev)
 
 ---
 
