@@ -3,8 +3,6 @@
 
 Välkommen till min Github. Här hittar du olika projekt som jag skapat, främst under min utbildning till Webbutvecklare.
 
-Jag pluggar Webbutveckling på Mittuniversitetet och är inne på mitt sista år. 
-
 ---
 
 ### ⚡Jag kan:⚡
